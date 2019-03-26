@@ -1,9 +1,10 @@
 package ashitha;
 
-public class kjkjkjk {
+public class Ashita {
 	private void sysout() {
-	//jjhjhjhjhj// TODO Auto- method stub
+	
 		System.out.println("ashitha shetty");
+		System.out.println("class name changed");
 	}
 
 }
